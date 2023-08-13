@@ -1,0 +1,3 @@
+@props(['mainContent' => ''])
+{{ $mainContent }}
+

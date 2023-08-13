@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Dashboard",
+        "url": "home",
+        "icon": "fas fa-tachometer-alt",
+        "sousmenu": []
+    },
+    {
+        "name": "Utilisateurs",
+        "url": "#",
+        "icon": "fas fa-users",
+        "sousmenu": [
+            {
+                "name": "Utilisateurs",
+                "url": "users.index",
+                "icon": "fas fa-users",
+                "sousmenu": []
+            },
+            {
+                "name": "Bookings",
+                "url": "bookings.index",
+                "icon": "fas fa-users",
+                "sousmenu": []
+            }
+        ]
+    },
+    {
+        "name": "Bookings",
+        "url": "bookings.index",
+        "icon": "fas fa-users",
+        "sousmenu": [
+            {
+                "name": "Bookings",
+                "url": "bookings.index",
+                "icon": "fas fa-users",
+                "sousmenu": []
+            },
+            {
+                "name": "Reviews",
+                "url": "reviews.index",
+                "icon": "fas fa-users",
+                "sousmenu": []
+            }
+        ]
+    },
+    {
+        "name": "PetOwners",
+        "url": "#",
+        "icon": "fas fa-user",
+        "sousmenu": [
+            {
+                "name": "PetOwners",
+                "url": "petowners.index",
+                "icon": "fas fa-paw-alt",
+                "sousmenu": []
+            } ,{
+                "name": "Pets",
+                "url": "pets.index",
+                "icon": "fas fa-paw-alt",
+                "sousmenu": []
+            }
+        ]
+    },
+    {
+        "name": "PetSitters",
+        "url": "#",
+        "icon": "fas fa-user",
+        "sousmenu": [
+            {
+                "name": "PetSitters",
+                "url": "petsitters.index",
+                "icon": "fas fa-paw-alt",
+                "sousmenu": []
+            } ,{
+                "name": "Adresses",
+                "url": "adresses.index",
+                "icon": "fas fa-users",
+                "sousmenu": []
+            }
+        ]
+    }
+]

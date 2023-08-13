@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebd40c63-696a-4d09-90b7-872dfdd4500f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/BillsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Http/Controllers/BillsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/ClientAgentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Http/Controllers/ClientAgentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/ClientController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Http/Controllers/ClientController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/DeliveryFormController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Http/Controllers/DeliveryFormController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/ProviderAgentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Http/Controllers/ProviderAgentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Http/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Http/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Models/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Models/Order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Models/ParaProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Models/ParaProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../app/Models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../app/Models/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logo/e2de8d4f91ab3c80dc35a369a2c0913c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/admin/circuit_logs/circuit_logs.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/admin/circuit_logs/circuit_logs.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/admin/clients/clients.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/admin/clients/clients.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/admin/deliveryForms/deliveryForms.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/admin/deliveryForms/deliveryForms.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/agentClients/agentClients.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/agentClients/agentClients.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/bills/bills-list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/bills/bills-list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/deliveryForms/deliveryFormList.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/deliveryForms/deliveryFormList.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/orders/clientorders.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/orders/clientorders.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/orders/show-order.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/orders/show-order.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/orders/showorder.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/orders/showorder.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/paraProducts/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/paraProducts/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/products/clientproducts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/products/clientproducts.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/client/roles/roleHasPermissions.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/client/roles/roleHasPermissions.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/components/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/components/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/views/components/quick-user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/views/components/quick-user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../routes/api.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="25YhrnAU940bvZcSVYF2oW4zr5g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../multiAuthBreeze" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd40c63-696a-4d09-90b7-872dfdd4500f" name="Changes" comment="" />
+      <created>1645710128970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645710128970</updated>
+      <workItem from="1645710130084" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Dashboard",
+        "url": "client.home",
+        "privilege": [],
+        "package": "",
+        "icon": "fas fa-tachometer-alt",
+        "sousmenu": []
+    }
+]
